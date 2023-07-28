@@ -2,6 +2,7 @@
 Trabalho feito na disciplina de Programação 2 no qual fomos desafiados a criar um código no qual deveria criptografar e descriptografar uma mensagem
 
 **Especificação**
+
 **Contextualização:**
  A Guerra do Iêmem, conhecida como a “Guerra Esquecida”, é a guerra entre os
 Houthi, grupo xiita apoiado pelo Iran, e o governo de Abd-Rabbu Mansour Hadi, sunita,
